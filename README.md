@@ -1,5 +1,5 @@
 
-# CS2 Inventory Manager
+# CS2 Inventory Manager Free Beta Skin Changer
 
 <img width="717" height="140" alt="2312312" src="https://github.com/user-attachments/assets/16deada0-e9f0-413a-8eec-99da140392ce" />
 
