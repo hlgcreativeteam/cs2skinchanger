@@ -1,9 +1,8 @@
 
 # CS2 Inventory Manager
 
-> Modern concept repository for a desktop inventory and skin catalog application.
+<img width="717" height="140" alt="2312312" src="https://github.com/user-attachments/assets/16deada0-e9f0-413a-8eec-99da140392ce" />
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ed4853b-aecf-49a4-a6e0-f5874cf7dc76" />
 
 
 ## ✨ Features
