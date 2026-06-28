@@ -3,7 +3,8 @@
 
 > Modern concept repository for a desktop inventory and skin catalog application.
 
-![Banner](docs/screenshots/banner.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ed4853b-aecf-49a4-a6e0-f5874cf7dc76" />
+
 
 ## ✨ Features
 - Inventory browser
@@ -31,5 +32,4 @@ assets/
 ## 📄 License
 MIT
 
-## Disclaimer
-This repository is a design/documentation concept. It does not modify or interact with Counter-Strike 2.
+#.
